@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A61B3DEB-8B63-46A8-8FDF-AD81B9D8469C}|Default">
+  <MonoDevelop.Ide.ItemProperties.page1 FirstBuild="True" PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="page1/Pages/Index.cshtml">
+    <Files>
+      <File FileName="page1/Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="page1/Pages/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="simpleopenshiftwebapp" expanded="True">
+            <Node name="page1" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
